@@ -1,0 +1,12 @@
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\bin\Debug\net5.0\TaskManagerKurs.Common.Models.deps.json
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\bin\Debug\net5.0\TaskManagerKurs.Common.Models.dll
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\bin\Debug\net5.0\ref\TaskManagerKurs.Common.Models.dll
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\bin\Debug\net5.0\TaskManagerKurs.Common.Models.pdb
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\obj\Debug\net5.0\TaskManagerKurs.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\obj\Debug\net5.0\TaskManagerKurs.Common.Models.AssemblyInfoInputs.cache
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\obj\Debug\net5.0\TaskManagerKurs.Common.Models.AssemblyInfo.cs
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\obj\Debug\net5.0\TaskManagerKurs.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\obj\Debug\net5.0\TaskManagerKurs.Common.Models.dll
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\obj\Debug\net5.0\ref\TaskManagerKurs.Common.Models.dll
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\obj\Debug\net5.0\TaskManagerKurs.Common.Models.pdb
+C:\Users\evkar\source\repos\TaskManagerKurs\TaskManagerKurs.Common.Models\obj\Debug\net5.0\TaskManagerKurs.Common.Models.csproj.AssemblyReference.cache
